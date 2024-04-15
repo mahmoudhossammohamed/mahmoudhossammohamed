@@ -7,8 +7,6 @@
 
 -  I’m currently learning *developing flutter apps*
 
--  I’m looking to collaborate on *PrimeRig Project*
-
 -  How to reach me *mahmoud77mezo@gmail.com*
 
 -  Know about my experiences [Resume](https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing)
