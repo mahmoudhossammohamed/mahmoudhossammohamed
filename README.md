@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=1000&color=010101&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
 
+<div style="text-align: center;">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=1000&color=010101&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
+</div>
+
 
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
 <h3 align="center">I am a dedicated and passionate undergraduate student in software engineering</h3>
