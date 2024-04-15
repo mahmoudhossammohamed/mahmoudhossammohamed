@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmoud77mezo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing](https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
