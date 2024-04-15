@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhossammohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhossammohamed" /> </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors" alt="mahmoudhossammohamed" /> </p>
 
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
