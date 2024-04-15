@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahmoudhossammohamed.mahmoudhossammohamed" alt="mahmoudhossammohamed" /> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mahmoudhossammohamed.mahmoudhossammohamed&left_text=MyPageVisitors)
 
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
 <h3 align="center">I am a dedicated and passionate undergraduate student in software engineering</h3>
