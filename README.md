@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhossammohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhossammohamed" /> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
 <h3 align="center">I am a dedicated and passionate undergraduate student in software engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhossammohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudhossammohamed" /> </p>
 
 -  I’m currently working on *graduation project*
 
