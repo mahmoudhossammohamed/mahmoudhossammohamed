@@ -1,5 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mahmoudhossammohamed.mahmoudhossammohamed&left_text=Visitors)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=010101&random=false&width=435&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
 <h3 align="center">I am a dedicated and passionate undergraduate student in software engineering</h3>
 
