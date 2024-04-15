@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mahmoudhossammohamed.mahmoudhossammohamed&left_text=Visitors)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1000&pause=1000&color=010101&random=false&width=500&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=1000&pause=1000&color=010101&center=true&random=false&width=500&height=70&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi , I'm Mahmoud Hossam</h1>
