@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=100&duration=1000&pause=1000&color=010101&center=true&random=false&width=1500&height=150&lines=Hello+there%2C;I+am+Mahmoud+Hossam;I+am+software+engineer)](https://git.io/typing-svg)
 
--  I’m currently working on **graduation project**
+  💼 Application Development and Integration Trainee at NTI
 
--  I’m currently learning **developing flutter apps**
+  🎓 Software Engineer with a solid understanding of the Software Development Life Cycle (SDLC) and best practices
 
--  Know about my experiences [**Resume**](https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing)
+  📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing)
 
--  How to reach me **mahmoud77mezo@gmail.com**
+  📫 How to reach me **mahmoud77mezo@gmail.com**
 
 <a href="mailto:mahmoud77mezo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
