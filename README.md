@@ -6,7 +6,7 @@
 
   🎓 Software Engineer with a solid understanding of the Software Development Life Cycle (SDLC) and best practices
 
-  📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PbmD2hKDcjfwb9ffzv2ePkZBKx9JaAdM/view?usp=sharing)
+  📄 Know about my experiences [**CV**](https://drive.google.com/file/d/18P_KQNb57XQRk_IOFAbwJ1m77EfzSNZA/view?usp=sharing)
 
   📫 How to reach me **mahmoud77mezo@gmail.com**
 
